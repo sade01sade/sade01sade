@@ -45,8 +45,8 @@ Chadian, based in Kigali, Rwanda  |  AUCA Student  |  Building secure & scal
 - 🏥 **MediBook** — Hospital appointment booking system · UML design · group SE project
 - 🩸 **N-BDEMS** — National Blood Donation & Emergency Matching System · ASP.NET Web API · react js
 - 📄 **Document Finder** — ASP.NET Web Forms · SQL Server · stored procedures · CRUD
-- 🏨 **Hotel Booking App** — Android · Java · SQLite · BroadcastReceiver · CSV export
-- 🏦 **Bank Management App** — Android · Java · 5 packages · JOIN queries · SharedPreferences
+- 🏨 **Hotel Booking App** — Android · Java · SQLite · BroadcastReceiver · CSV export &nbsp; &nbsp; [GitLab ↗](https://gitlab.com/sadegeorgesade/hotel_management_app)
+- 🏦 **Bank Management App** — Android · Java · 5 packages · JOIN queries · SharedPreferences &nbsp; &nbsp; [GitLab ↗](https://gitlab.com/sadegeorgesade/bank_management_app)
 
 ---
 
