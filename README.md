@@ -42,7 +42,7 @@ Chadian, based in Kigali, Rwanda  |  AUCA Student  |  Building secure & scal
 ## 📦 Key projects
 
 - 🤱 **MamaCare** — Android maternal health companion · Java · Spring Boot · PostgreSQL · Groq AI
-- 🏥 **MediBook** — Hospital appointment booking system · UML design · group SE project
+- 🏥 **MediBook** — Hospital appointment booking system · UML design · mobile programming project &nbsp; &nbsp; [GitLab ↗](https://gitlab.com/sadegeorgesade/26915_midterms_clinic)
 - 🩸 **N-BDEMS** — National Blood Donation & Emergency Matching System · ASP.NET Web API · react js
 - 📄 **Document Finder** — ASP.NET Web Forms · SQL Server · stored procedures · CRUD
 - 🏨 **Hotel Booking App** — Android · Java · SQLite · BroadcastReceiver · CSV export &nbsp; &nbsp; [GitLab ↗](https://gitlab.com/sadegeorgesade/hotel_management_app)
