@@ -1,31 +1,62 @@
-# Sade George Sade
+<div align="center">
 
-Software Engineering student · Cybersecurity enthusiast · Based in Kigali, Rwanda 🇷🇼
+# Hi, I'm Sade George Sade 👋
 
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-3C3489?style=flat-square&labelColor=3C3489&color=EEEDFE&fontColor=3C3489)
-![Android Dev](https://img.shields.io/badge/-Android%20Dev-3C3489?style=flat-square&labelColor=3C3489&color=EEEDFE)
-![Backend Engineering](https://img.shields.io/badge/-Backend%20Engineering-3C3489?style=flat-square&color=EEEDFE)
-![DevOps](https://img.shields.io/badge/-DevOps-3C3489?style=flat-square&color=EEEDFE)
+**Software Engineering  |  🔐 Cybersecurity Engineer (in the making)**
 
-## About me
+Chadian, based in Kigali, Rwanda  |  AUCA Student  |  Building secure & scalable systems
 
-I'm a 3rd-year Software Engineering student at Adventist University of Central Africa (AUCA), originally from Chad. My focus is on cybersecurity engineering — working toward a professional certification and, long-term, a master's degree in cybersecurity from a top-tier university.
+</div>
 
-I enjoy building things that solve real problems: Android health apps, hospital management systems, network security labs, and REST APIs. I'm also passionate about teaching and have tutored peers in mathematics, technology, and literature.
+---
 
-## Tech stack & skills
+## 🛠️ Tech stack
 
 **Languages**
-`Java` `Python` `JavaScript` `PHP` `C` `SQL`
 
-**Frameworks & tools**
-`Spring Boot` `Android Studio` `React + Vite` `Docker` `Traefik` `PostgreSQL` `MariaDB` `Apache2 / Nginx`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**Security & networking**
-`Cisco Packet Tracer` `VLAN / Inter-VLAN Routing` `ASA Firewall` `UFW` `ModSecurity` `SSH 2FA`
+**Frameworks & backend**
 
-## GitHub activity
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-![Sade's GitHub stats](https://github-readme-stats.vercel.app/api?username=sade01sade&show_icons=true&hide_border=true&theme=default)
+**Databases & DevOps**
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sade01sade&layout=compact&hide_border=true&theme=default)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📦 Key projects
+
+- 🤱 **MamaCare** — Android maternal health companion · Java · Spring Boot · PostgreSQL · Groq AI
+- 🏥 **MediBook** — Hospital appointment booking system · UML design · group SE project
+- 🩸 **N-BDEMS** — National Blood Donation & Emergency Matching System · HTML/JS · Chart.js
+- 📄 **Document Finder** — ASP.NET Web Forms · SQL Server · stored procedures · CRUD
+- 🏨 **Hotel Booking App** — Android · Java · SQLite · BroadcastReceiver · CSV export
+- 🏦 **Bank Management App** — Android · Java · 5 packages · JOIN queries · SharedPreferences
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+![Sade's GitHub stats](https://github-readme-stats.vercel.app/api?username=sade01sade&show_icons=true&theme=github_dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sade01sade&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
