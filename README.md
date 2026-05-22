@@ -50,6 +50,13 @@ Chadian, based in Kigali, Rwanda  |  AUCA Student  |  Building secure & scal
 
 ---
 
+## 🔗 Connect & find my work
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sade01sade)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/sadegeorgesade)
+
+---
+
 ## 📊 GitHub activity
 
 <div align="center">
