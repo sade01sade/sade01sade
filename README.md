@@ -43,6 +43,7 @@ Chadian, based in Kigali, Rwanda  |  AUCA Student  |  Building secure & scal
 
 - 🌿 **AgriMarket** — Agriculture Market price intelligence · Java · Spring Boot · PostgreSQL · ReactJs · Tailwind CSS 
 - 🤱 **MamaCare** — Android maternal health companion · Java · Spring Boot · PostgreSQL · Groq AI
+- 💳**Digital Wallet** — Student digital wallet for an university · ASP.NET Core Web API · ReactJs
 - 🏥 **MediBook** — Hospital appointment booking system · UML design · mobile programming project &nbsp; &nbsp; [GitLab ↗](https://gitlab.com/sadegeorgesade/26915_midterms_clinic)
 - 🩸 **N-BDEMS** — National Blood Donation & Emergency Matching System · ASP.NET Web API · react js
 - 📄 **Document Finder** — ASP.NET Web Forms · SQL Server · stored procedures · CRUD
