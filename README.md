@@ -41,7 +41,7 @@ Chadian, based in Kigali, Rwanda  |  AUCA Student  |  Building secure & scal
 
 ## 📦 Key projects
 
-- 🤱 **AgriMarket** — Agriculture Market price intelligence · Java · Spring Boot · PostgreSQL · ReactJs · Tailwind CSS 
+- 🌿 **AgriMarket** — Agriculture Market price intelligence · Java · Spring Boot · PostgreSQL · ReactJs · Tailwind CSS 
 - 🤱 **MamaCare** — Android maternal health companion · Java · Spring Boot · PostgreSQL · Groq AI
 - 🏥 **MediBook** — Hospital appointment booking system · UML design · mobile programming project &nbsp; &nbsp; [GitLab ↗](https://gitlab.com/sadegeorgesade/26915_midterms_clinic)
 - 🩸 **N-BDEMS** — National Blood Donation & Emergency Matching System · ASP.NET Web API · react js
